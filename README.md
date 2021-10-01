@@ -1,6 +1,6 @@
 # CS4555Project-Team5
 
-1. (Component) 
+1. (Component)
 NPC -> If you going to create a new one !!!
 - add NPC Script and uncheck it
 - add Capsule Collider and change IsTrigger to check/true and the radius little bit bigger)
