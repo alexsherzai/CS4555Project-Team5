@@ -1,6 +1,6 @@
 # CS4555Project-Team5
 
-(Component)
+1. (Component) 
 NPC -> If you going to create a new one !!!
 - add NPC Script and uncheck it
 - add Capsule Collider and change IsTrigger to check/true and the radius little bit bigger)
@@ -23,7 +23,7 @@ NPC_GUI -> A canvas with child component text
 - NPC and below child component must be hide/uncheck before you run the game
 
 
-(Script)
+2. (Script)
 CharacterMovement -> If you want to delete to delete it and add your own movement script, it won't affect the overall function. 
 
 Cube Movement -> KnM created this script, use it for his testing purpose.
