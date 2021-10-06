@@ -1,6 +1,6 @@
 # CS4555Project-Team5
 
-NOTE: All the assets that are uploaded to the project are free to use assets.
+NOTE: All assets that uploaded to the project are free to use assets.
 
 1. (Component)
 NPC -> If you going to create a new one !!!
