@@ -1,6 +1,16 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 956bd2acf7aae244dac8fc20cf57858d
 timeCreated: 1453385021
+=======
+<<<<<<< HEAD:Assets/Tree9/Tree9_2.prefab.meta
+guid: be878d9ea17907f4a8068678a5ce7908
+timeCreated: 1453385019
+=======
+guid: 956bd2acf7aae244dac8fc20cf57858d
+timeCreated: 1453385021
+>>>>>>> parent of 586d54d (Another part of the files):Assets/Tree9/Tree9_4.prefab.meta
+>>>>>>> parent of 586d54d (Another part of the files)
 licenseType: Store
 NativeFormatImporter:
   userData: 
