@@ -585,6 +585,7 @@ Received Import Request.
   path: Assets/MedievalCharacterPack/CharacterAtlasTexture/Blacksmith/Materials/TextureAtlasModelsColor2.mat
   artifactKey: Guid(a17949dfddfd5ca4984ab79ee4cd8b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/MedievalCharacterPack/CharacterAtlasTexture/Blacksmith/Materials/TextureAtlasModelsColor2.mat using Guid(a17949dfddfd5ca4984ab79ee4cd8b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1db4b2c61a8546e668b13612ad9077a4') in 0.026187 seconds 
+<<<<<<< HEAD
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
@@ -647,3 +648,5 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 =======
 >>>>>>> parent of 485eeca (Main Character Package)
+=======
+>>>>>>> parent of 6d08fe2 (Merge branch 'main' of https://github.com/alexsherzai/CS4555Project-Team5 into main)
