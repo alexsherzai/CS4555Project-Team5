@@ -1,7 +1,5 @@
 # CS4555Project-Team5
 
-NOTE: All assets that uploaded to the project are free to use assets.
-
 1. (Component)
 NPC -> If you going to create a new one !!!
 - add NPC Script and uncheck it

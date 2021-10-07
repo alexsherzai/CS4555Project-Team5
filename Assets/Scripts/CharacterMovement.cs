@@ -56,12 +56,6 @@ public class CharacterMovement : MonoBehaviour
             Vector3 rotation = new Vector3(0.0f, 1.0f * Time.deltaTime * rotateSpeed, 0.0f);
             transform.Rotate(rotation);
         }
-        if (Input.GetKeyDown(KeyCode.LeftShift)) {
-            movSpeed *= 3;
-        }
-        if (Input.GetKeyUp(KeyCode.LeftShift)) {
-            movSpeed /= 3;
-        }
 
         velocity.y += gravity * Time.deltaTime * Time.deltaTime;
 
